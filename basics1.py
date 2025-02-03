@@ -30,3 +30,9 @@ y=("is")
 z=("beautiful")
 
 print(x,y,z)
+
+a=("Hello")
+b=("World")
+c=("!")
+
+print(a,b,c)
